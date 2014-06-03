@@ -23,6 +23,10 @@ input, select, button, textarea {
 /*-----------------------------------*\
   $OBJECTS
 \*-----------------------------------*/
+#flashStuff {
+width:100%;	
+Height:100%;
+}
 
 .butt, .input {
   padding: .75rem;
