@@ -168,7 +168,7 @@ html {
   html {
     height: 100%;
   }
-
+/*
   html:before {
     content: '';
     display: inline-block;
@@ -177,7 +177,7 @@ html {
     margin-right: -0.25em;
   }
 
-  /*body {
+  body {
     display: inline-block;
     vertical-align: middle;
     max-width: 38rem;
