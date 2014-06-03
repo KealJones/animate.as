@@ -176,12 +176,11 @@ html {
     vertical-align: middle;
     margin-right: -0.25em;
   }
-
+*/
   body {
-    display: inline-block;
-    vertical-align: middle;
-    max-width: 38rem;
-  }*/
+    width:100%;	
+Height:100%;
+  }
 }
 
 /*-----------------------------------*\
