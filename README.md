@@ -18,8 +18,10 @@ Since animate.as was based on TweenNano it slightly emulates TweenNano's syntax 
 Animate.to(targetMovieClip,"animationString",onCompleteFunction,["onCompleteParams","MoreParams"]);
 ```
 
+More Animations are being added, hopefully soon it will contain more animations than you will ever need.
+
 ## License
 animate.as is licensed under the MIT license. (http://opensource.org/licenses/MIT)
 
 ## Credits
-This project is based on animate.css by Daniel Eden (http://daneden.github.io/animate.css)
+This project is a semi-port of animate.css by Daniel Eden (http://daneden.github.io/animate.css)
